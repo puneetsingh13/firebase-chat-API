@@ -6,7 +6,8 @@ Laravel - Firebase - Realtime Database
 - Create a Database - Realtime Database in Test Mode.
 - Download service-account-key json file from Project > Setting > Service Account.
 - Click on "Generate New Private Key" button.
-- 
+- Place this file on /Storage folder
+- Set in the env FIREBASE_CREDENTIALS=storage/FirebaseKey.json
 
 # Composer Command
 - composer update
