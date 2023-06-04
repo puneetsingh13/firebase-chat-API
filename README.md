@@ -1,4 +1,4 @@
-# MilliPixels-firebase-chat-API
+# firebase-chat-API
 Laravel - Firebase - Realtime Database
 
 # Setup Firebase
